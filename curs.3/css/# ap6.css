@@ -1,0 +1,11 @@
+p{
+    color: aquamarine;
+}
+#p1 
+{
+    color: red;
+}
+.pblue{
+    color: blue;
+}
+div p{ color: brown;}
